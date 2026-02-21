@@ -1,0 +1,9 @@
+# Ignore the SQLite database file
+track.db
+
+# Ignore Python's automatic cache folders
+__pycache__/
+
+# Ignore environment variables or local settings
+.env
+*.pyc
