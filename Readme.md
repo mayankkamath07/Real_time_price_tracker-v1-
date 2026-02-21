@@ -15,7 +15,7 @@ Database: SQLite3
 Version Control: Git & GitHub
 
 📂 Project Structure
-scraper.py: Handles the "sensor" logic—visiting URLs and extracting raw price data.
+scrape.py: Handles the "sensor" logic—visiting URLs and extracting raw price data.
 
 database.py: Manages the "memory"—creating tables and logging price history.
 
